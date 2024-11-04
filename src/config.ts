@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: '27 / 28 Blog',
-  subtitle: '演示网站',
+  subtitle: 'TimeMachine',
   lang: 'zh_CN',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 250,         // 主题颜色的默认色相，从 0 到 360。例如，红色: 0，青色: 200，蓝色: 250，粉色: 345
