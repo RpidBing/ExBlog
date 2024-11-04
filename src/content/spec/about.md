@@ -1,5 +1,9 @@
 # About
 
+这是一个关于生活、技术、菜谱分享的 Little Blog
+
+很高兴能够通过
+
 <!-- This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
 ::github{repo="saicaca/fuwari"}
