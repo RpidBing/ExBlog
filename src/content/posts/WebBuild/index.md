@@ -10,4 +10,8 @@ lang: 'zh_CN'
 
 # `27 / 28 Blog` 建站历程
 
-> 最早通过好哥们接触到 `Astro` 的时候，
+> 最初在朋友的介绍下 认识了 `Astro` 最初我搭建了 我的的 Blog demo 
+::github{repo="RpidBing/ExBlog"}
+
+> 但是在搭建后 就搁置了 一直没有更新其中的文章  
+> 在月初
