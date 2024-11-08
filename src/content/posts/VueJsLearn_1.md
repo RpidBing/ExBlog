@@ -11,7 +11,7 @@ lang: 'zh_CN'
 
 # Vue framework 学习日志 Part 1
 
-:::tip
+:::note
 > 学习途径 :
 - 官方文档      : https://cn.vuejs.org/guide/quick-start.html
 - B 站视频号    : BV1Pb4y157GV
