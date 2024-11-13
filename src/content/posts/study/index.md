@@ -62,9 +62,7 @@ print("Hello, World!")
 将单词或短语表示为`hello`。
 
 
-插入图片Markdown语法代码：![图片alt](图片链接 "图片title")。
 ![这是图片！！！](./xyb.jpg "Magic Gardens")
-
 
 [![点我](./xyc.jpg "xyc")](https://exyrpid.cn)
 
