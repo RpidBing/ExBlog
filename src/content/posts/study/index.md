@@ -2,7 +2,7 @@
 title: new-test-blog-post-1
 published: 2024-11-12
 description: 'study-ceshi is a test blog post'
-image: ' '
+image: ''
 tags: [test]
 category: 'xy'
 draft: false
