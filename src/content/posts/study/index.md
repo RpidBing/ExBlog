@@ -66,15 +66,15 @@ print("Hello, World!")
 
 [![点我](./xyc.jpg "xyc")](https://exyrpid.cn)
 
-↓著作权符号？
-&copy;
-4<5
-4&t
-A&amp;T 我做得对吗
+↓著作权符号？  
+&copy;  
+4<5  
+4&5  
+A&amp;T 我做得对吗  
 
 ***********
 
-###分割线？
+###分割线！！！
 
 
 End
