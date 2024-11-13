@@ -9,7 +9,7 @@ draft: false
 lang: 'zh_CN'
 ---
 # 甜点-蛋挞
-![蛋挞](danta.jpg)
+![蛋挞](./danta.jpg)
 ## 准备材料
 >- 一个鸡蛋  
 >- 4个蛋挞皮  

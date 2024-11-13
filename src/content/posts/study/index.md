@@ -43,7 +43,7 @@ print("Hello, World!")
 >这是一段引用内容。
 > 这是一段引用
 >>引用引用
-![xiaohei](xya.jpg)
+![xiaohei](./xya.jpg)
 
 - [ ] 未完成任务
 - [x] 已完成任务  
