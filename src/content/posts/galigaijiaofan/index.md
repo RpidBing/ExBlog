@@ -2,12 +2,14 @@
 title: 饭类-咖喱盖浇饭
 published: 2024-11-13
 description: '如何制作美味的咖喱盖浇饭'
-image: './gali.jpg'
+image: ''
 tags: [rice]
 category: 'cookbook'
 draft: false
 lang: 'zh_CN'
 ---
+
+![咖喱饭](./gali.jpg)
 
 ## 准备材料
 >- 半盒`咖喱块`  
