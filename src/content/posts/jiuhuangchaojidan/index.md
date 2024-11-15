@@ -2,14 +2,12 @@
 title: 饭类-韭黄炒鸡蛋
 published: 2024-11-14
 description: '如何制作美味的韭黄炒鸡蛋'
-image: ''
+image: './jiuhuangchaodan.jpg'
 tags: [rice]
 category: 'cookbook'
 draft: false
 lang: 'zh_CN'
 ---
-
-![韭黄炒蛋](./jiuhuangchaodan.jpg)
 
 ## 准备材料  
 - 一把`韭黄`  
