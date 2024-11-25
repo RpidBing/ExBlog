@@ -2,7 +2,7 @@
 title: 甜点-绿豆糖水
 published: 2024-11-19
 description: '如何制作美味的绿豆糖水'
-image: ''
+image: './lvdousha.jpg'
 tags: [dessert]
 category: 'cookbook'
 draft: false

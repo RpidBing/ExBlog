@@ -2,7 +2,7 @@
 title: 面类-番茄汤面
 published: 2024-11-21
 description: '如何制作美味的番茄汤面'
-image: ''
+image: './fanqietangmian.jpg'
 tags: [noodles]
 category: 'cookbook'
 draft: false
