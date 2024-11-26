@@ -1,12 +1,12 @@
 ---
-title: VueLearn_2.md
+title: Vue 学习日志二
 published: 2024-11-08
-description: ''
+description: '这是一个关于 Vue.js 框架的学习记录'
 image: ''
-tags: []
-category: ''
-draft: false 
-lang: ''
+tags: [Learn, Front, Vue, Log]
+category: 'CodeLog'
+draft: false
+lang: 'zh_CN'
 ---
 
 # Vue framework 学习日志 Part 2

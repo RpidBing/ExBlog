@@ -1,5 +1,5 @@
 ---
-title: Vue 学习日志 <Part 1>
+title: Vue 学习日志一
 published: 2024-11-06
 description: '这是一个关于 Vue.js 框架的学习记录'
 image: ''
