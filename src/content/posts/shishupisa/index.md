@@ -1,6 +1,6 @@
 ---
 title: 饭类-时蔬披萨
-published: 2024-11-27
+published: 2024-12-06
 description: '如何制作美味的时蔬披萨'
 image: './1.jpg'
 tags: [rice]
