@@ -132,7 +132,7 @@ lang: 'zh_CN'
 > - [x] 在 Bilibili 学习了 1blue3brown 的系列视频《微积分的本质》 1 - 3 (progress 16:55)
 > - [x] 跑步 + 骑行 2.27km elapsed: `00:13:30` pace 5.57 min/km
 
-## 2024 12月 4日
+## 2024年 12月 4日
 
 > about Work
 > - [x] 制作搜索框组件样式
@@ -155,13 +155,45 @@ lang: 'zh_CN'
 > about Work
 > - [x] 今日 不处理预期工作事物
 
-> about live and  study
-> - [ ] 阅读《操作系统导论》8 - 10 章
-> - [ ] 在 Bilibili 学习 1blue3brown 的系列视频《微积分的本质》
-> - [ ] 多领国App 学习一个大节
-> - [ ] 熟悉 英语环境
-> - [ ] 碎片时间 合理使用
-> - [ ] 27 陪我去买 白衬衫 还有 裤子？
+> about live and study
+> - ~~[ ] 阅读《操作系统导论》8 - 10 章~~
+> - [x] 在 Bilibili 学习 1blue3brown 的系列视频《微积分的本质》
+> - [x] 多领国App 学习一个 ~~大节~~ 小节
+> - [x] 熟悉 英语环境
+> - [x] 碎片时间 合理使用
+> - [x] 27 陪我去买 白衬衫 还有 裤子？
 
 > additional
-> 
+> - [x] 和 27 一起吃了 香喷喷的肯德基
+
+## 2024年 12月 6日
+
+> about work
+> - [x] 制作完成 web 搜索功能及界面
+
+> about live and study
+> - [x] 在 多邻国App 学习一个小节
+> - [x] 早早回家收拾了衣服
+
+## 2024年 12月 7日
+
+> only live 
+> - [x] 拍 毕业照喽！
+
+## 2024年 12月 8日
+
+> only live
+> - [x] 美美的睡到了12点 也休息了 而且 =)
+
+## 2024年 12月 9日
+> about work
+> - [ ] 检测个模块状态稳定性
+
+> about 毕设
+> - [ ] 完善整体结构设计
+
+> about live and study
+> - [ ] 高数学习 一节课
+> - [ ] 阅读《操作系统导论》第 8 章
+
+> additional
