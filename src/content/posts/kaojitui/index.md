@@ -34,3 +34,6 @@ lang: 'zh_CN'
 
 - [x] 食材也可以换成鸡胸肉！  
 ![jipai](./jipai.jpg)
+
+- [x] 下饭！  
+![1](./1.jpg)
