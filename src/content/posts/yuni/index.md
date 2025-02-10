@@ -2,7 +2,7 @@
 title: 甜点-芋泥
 published: 2024-12-12
 description: '如何制作美味的芋泥'
-image: './danta.jpg'
+image: './1.jpg'
 tags: [dessert]
 category: 'cookbook'
 draft: false
