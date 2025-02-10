@@ -1,6 +1,6 @@
 ---
 title: 饭类-椰子鸡
-published: 2025-2-10
+published: 2025-02-10
 description: '如何制作美味的椰子鸡'
 image: './1.jpg'
 tags: [rice]

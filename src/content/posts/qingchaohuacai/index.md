@@ -1,6 +1,6 @@
 ---
 title: 饭类-清炒花菜
-published: 2025-2-10
+published: 2025-02-10
 description: '如何制作美味的清炒花菜'
 image: './1.jpg'
 tags: [rice]
