@@ -5,7 +5,7 @@ description: '如何制作美味的菠萝黑椒鸡肉披萨'
 image: './1.jpg'
 tags: [rice]
 category: 'cookbook'
-draft: false
+draft: true
 lang: 'zh_CN'
 ---
 
