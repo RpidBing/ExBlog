@@ -5,7 +5,7 @@ description: '如何制作美味的椰子鸡'
 image: './1.jpg'
 tags: [rice]
 category: 'cookbook'
-draft: true
+draft: false
 lang: 'zh_CN'
 ---
 
